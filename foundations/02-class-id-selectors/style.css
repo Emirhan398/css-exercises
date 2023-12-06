@@ -1,0 +1,16 @@
+.pink {
+    background-color:rgba(251, 105, 119,0.4);
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+.big {
+    font-size: 24px;
+}
+#n2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#n4 {
+    background-color: rgba(0, 255,0,0.4);
+    font-weight: bold;
+    font-size: 24px;
+}
